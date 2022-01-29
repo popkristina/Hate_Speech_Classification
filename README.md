@@ -9,6 +9,7 @@ The main dataset labeled_data is created by mapping the following datasets:
 
  - Davidson et. al.: https://github.com/t-davidson/hate-speech-and-offensive-language
 
+ - Data for OffensEval competition: https://competitions.codalab.org/competitions/20011#learn_the_details-overview
 
 The rest of the datasets of unlabeled data used for training of word2vec models are stored in 
 ./datasets.
