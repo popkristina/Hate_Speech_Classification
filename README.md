@@ -3,7 +3,7 @@ A supervised-learning text classification project.
 
 ## Datasets
 
-Can be found in ./datasets
+Stored in ./datasets
 
  - hatebase_dict - A lexicon of hateful words from: https://hatebase.org/
 
