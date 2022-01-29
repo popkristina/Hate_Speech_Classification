@@ -26,8 +26,9 @@ Dataset mapping:
 |            | nationality -> hate |
 |	     |  religion -> hate   |
 |	     |  disability -> hate |
-| -----------| ------------------- |
-| 2          | Test2               | 
+| 2          |    hate -> hate     |
+|	     |  offense -> offense |
+|            |	none -> neutral    |
 | 3          | Test2               | 
 | 4          | Test2               | 
 | 5          | Test2               | 
