@@ -3,7 +3,15 @@ A supervised-learning text classification project.
 
 ### Datasets
 
-Stored in ./datasets
+The main dataset labeled_data is created by mapping the following datasets:
+
+ - Mai ElSherief et. al.: https://github.com/mayelsherif/hate_speech_icwsm18
+
+ - Davidson et. al.: https://github.com/t-davidson/hate-speech-and-offensive-language
+
+
+The rest of the datasets of unlabeled data used for training of word2vec models are stored in 
+./datasets.
 
  - hatebase_dict - A lexicon of hateful words from: https://hatebase.org/
 
