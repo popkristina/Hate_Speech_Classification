@@ -12,29 +12,11 @@ The main dataset labeled_data is created by mapping the following datasets:
  3. Zeerak et. al.: https://github.com/zeeraktalat/hatespeech
 
  4. Alterna CX's hate and offensive speech data: https://www.kaggle.com/alternacx/hateoffensive-speech-detection 
+ 
+ 5. Data for OffensEval competition: https://competitions.codalab.org/competitions/20011#learn_the_details-overview
 
- - Data for OffensEval competition: https://competitions.codalab.org/competitions/20011#learn_the_details-overview
+ 6. Trac 1 workshop data: https://sites.google.com/view/trac1/home
 
- - Trac 1 workshop data: https://sites.google.com/view/trac1/home
-
-Dataset mapping:
-
-| Dataset    | Mapping of classes  | 
-| -----------| ------------------- | 
-| 1          |   gender -> hate    |
-|	     |   class -> hate     |
-|            | nationality -> hate |
-|	     |  religion -> hate   |
-|	     |  disability -> hate |
-| 2          |    hate -> hate     |
-|	     |  offense -> offense |
-|            |	none -> neutral    |
-| 3          | Test2               | 
-| 4          | Test2               | 
-| 5          | Test2               | 
-| 6          | Test2               | 
-| 7          | Test2               | 
-| -----------| --------------------|
 
 The rest of the datasets of unlabeled data used for training of word2vec models are stored in 
 ./datasets.
