@@ -19,15 +19,16 @@ The main dataset labeled_data is created by mapping the following datasets:
 
 Dataset mapping:
 
-| Dataset    | Mapping of classes     | 
-| ------------- | ------------- | 
-| 1     | Test1         | 
-| 2           | Test2         | 
-| 3           | Test2         | 
-| 4           | Test2         | 
-| 5           | Test2         | 
-| 6           | Test2         | 
-| 7           | Test2         | 
+| Dataset    | Mapping of classes| 
+| -----------| ------------- | 
+| 1          | Test1         | 
+| 2          | Test2         | 
+| 3          | Test2         | 
+| 4          | Test2         | 
+| 5          | Test2         | 
+| 6          | Test2         | 
+| 7          | Test2         | 
+
 The rest of the datasets of unlabeled data used for training of word2vec models are stored in 
 ./datasets.
 
