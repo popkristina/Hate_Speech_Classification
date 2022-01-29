@@ -5,7 +5,8 @@ A supervised-learning text classification project.
 
 Can be found in ./datasets
 
- - hatebase_dict: A lexicon of hateful words from: hatebase.org
+ - hatebase_dict: A lexicon of hateful words from: https://hatebase.org/
+
 ## Classifiers
 
  - Naive Bayes: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html#sklearn.naive_bayes.BernoulliNB
