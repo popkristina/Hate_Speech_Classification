@@ -30,4 +30,4 @@ Stored in ./datasets
 
  - The w2v models are trained with help of the tutorial at: https://www.kaggle.com/c/word2vec-nlp-tutorial
  
- - For their size, they are not included in the repo, but the code under '''Scripts/word2vec/''' is enough to reproduce them.
+ - For their size, they are not included in the repo, but the code under "./Scripts/word2vec/" is enough to reproduce them.
