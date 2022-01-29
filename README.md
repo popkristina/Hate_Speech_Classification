@@ -5,8 +5,9 @@ A supervised-learning text classification project.
 
 Can be found in ./datasets
 
- - hatebase_dict: A lexicon of hateful words from: https://hatebase.org/
+ - hatebase_dict - A lexicon of hateful words from: https://hatebase.org/
 
+ - jigsaw - Toxic comments classification challenge from: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview
 ## Classifiers
 
  - Naive Bayes: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html#sklearn.naive_bayes.BernoulliNB
