@@ -27,6 +27,7 @@ The rest of the datasets of unlabeled data used for training of word2vec models 
 
  - jigsaw - Toxic comments classification challenge from: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview
 
+ - youtube comments: https://www.kaggle.com/datasnaek/youtube
 ### Classifiers
 
  - Naive Bayes: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html#sklearn.naive_bayes.BernoulliNB
@@ -52,6 +53,7 @@ The rest of the datasets of unlabeled data used for training of word2vec models 
  - N-grams (word and char)
 
  - POS tags
+
 ### Word2Vec
 
  - The w2v models are trained with help of the tutorial at: https://www.kaggle.com/c/word2vec-nlp-tutorial
