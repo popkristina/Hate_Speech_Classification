@@ -1,6 +1,8 @@
 ## Hate Speech Classification
 A supervised-learning text classification project.
 
+Classify a tweet to one of the following classes: 1. Hate speech 2. Offensive 3. Neutral
+
 ### Datasets
 
 The main dataset labeled_data is created by mapping the following datasets:
@@ -41,7 +43,15 @@ The rest of the datasets of unlabeled data used for training of word2vec models 
 
 ### Features
 
+ - Word embeddings
+ 
+ - Linguistic features
 
+ - Sentiment feautres
+
+ - N-grams (word and char)
+
+ - POS tags
 ### Word2Vec
 
  - The w2v models are trained with help of the tutorial at: https://www.kaggle.com/c/word2vec-nlp-tutorial
